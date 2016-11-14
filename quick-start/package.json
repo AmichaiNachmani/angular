@@ -13,6 +13,7 @@
       "url": "https://github.com/angular/angular.io/blob/master/LICENSE"
     }
   ],
+
   "dependencies": {
     "@angular/common": "~2.1.1",
     "@angular/compiler": "~2.1.1",
